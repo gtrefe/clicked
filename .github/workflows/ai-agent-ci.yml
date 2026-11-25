@@ -1,3 +1,5 @@
+# CI for apps/ai_agent. This is the only workflow for this app.
+# Edit here, not in apps/ai_agent/.github/ (that path is never executed by GitHub Actions).
 name: AI Agent CI
 
 on:
